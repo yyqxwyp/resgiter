@@ -1,0 +1,3 @@
+ajax  node.js mysql  javascript jquery
+登录注册时的校验 判断是否合法 
+通过数据库 向里面增加删除

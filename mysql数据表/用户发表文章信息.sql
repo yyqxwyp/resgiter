@@ -1,0 +1,1 @@
+SELECT * FROM my_day1_01.ev_articles;
